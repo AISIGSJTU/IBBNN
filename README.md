@@ -42,4 +42,12 @@ def kl_output(self, mean_batch=True):
 ```
 
 ## Cite
-TBD
+```
+@inproceedings{zhang2023information,
+  title={Information Bound and its Applications in Bayesian Neural Networks},
+  author={Zhang, Jiaru and Hua, Yang and Song, Tao and Wang, Hao and Xue, Zhengui and Ma, Ruhui and Guan, Haibing},
+  year={2023}
+  booktitle={ECAI},
+}
+
+```
