@@ -5,6 +5,9 @@
 
 </div>
 
+## Paper
+The paper can be viewed [here](https://lan-qing.github.io/publication/ibbnn/).
+
 ## Use 
 Run `main.py` to train models with IB regularization and IB variance regularization. 
 The parameter `ratio` and `lambda2` corresponding to $\lambda_1$ and $\lambda_2$ in Eq. (16) and Eq. (17).
