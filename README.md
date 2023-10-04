@@ -6,7 +6,7 @@
 </div>
 
 ## Paper
-The paper can be viewed [here](https://lan-qing.github.io/publication/ibbnn/).
+The paper and author information can be viewed [here](https://lan-qing.github.io/publication/ibbnn/).
 
 ## Use 
 Run `main.py` to train models with IB regularization and IB variance regularization. 
